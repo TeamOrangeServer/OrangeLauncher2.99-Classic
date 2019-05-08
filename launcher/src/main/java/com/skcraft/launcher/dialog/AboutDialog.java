@@ -48,7 +48,8 @@ public class AboutDialog extends JDialog {
                 "the launcher that you are using."), "wrap, gapbottom unrel");
         container.add(new JLabel("<html>Fruit LauncherはSKCraft Launcherをベースに作成されています。"), "wrap, gapbottom unrel");
         container.add(new JLabel("<html>OAI Launcher(Orange and Integration Launcher)は <br>" +
-                "Fruit Launcher 及び SKCraft Launcherをベースに作成されています。"), "wrap, gapbottom unrel");
+                "Fruit Launcher 及び SKCraft Launcherをベースに作成されています。<br><br>" +
+                "frtlはFruit Launcherの略です。"), "wrap, gapbottom unrel");
 
         JButton okButton = new JButton("OK");
         JButton sourceCodeButton = new JButton("Website");
