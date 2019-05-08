@@ -149,3 +149,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#OAIL files
+skins/
+accounts.dat
+instances/
