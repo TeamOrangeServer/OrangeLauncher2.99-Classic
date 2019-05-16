@@ -154,3 +154,7 @@ $RECYCLE.BIN/
 skins/
 accounts.dat
 instances/
+assets/
+libraries/
+*.jar
+icons/
